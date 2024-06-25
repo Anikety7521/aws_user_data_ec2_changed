@@ -1,4 +1,4 @@
-#aws_user_data_ec2_changed
+**aws_user_data_ec2_changed**
 
 Content-Type: multipart/mixed; boundary="//" MIME-Version: 1.0
 
